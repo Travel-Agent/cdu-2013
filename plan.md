@@ -15,10 +15,10 @@ endre Person(terje - master)
 
 merge disse to sammen (vise commit, push, pull og automerge - ingen problemer)
 
-Step 2 - Featurebranch, no-ff
+Step 2 - Featurebranch, no-ff (marius)
 ----------
 
-lage feature branch: add tests (marius)
+lage feature branch: [addTests] add tests 
 
 * added test class
 * added test
@@ -26,11 +26,14 @@ lage feature branch: add tests (marius)
 * merge til master (ff)
 * reset master (husk: ikke endre ting som andre har sett!)
 * merge til master (no-ff)
+* push
 
 Step 3 - rebase onto master (terje)
 ---------------
 
-* added another feature
+fikse bug på master 
+
+* fix age bug (terje should be less than 18)
 * pull and merge
 * show messy tree
 * reset master
