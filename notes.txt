@@ -1,0 +1,48 @@
+Notater cdu april 2013
+
+1. Intro
+   - How many uses Git as their "main" SCM system?
+   - Freedom of useage; what do you want to get out for your SCM and how are you going to do it?
+   - Team effort; with different rutes to the same goal come the need to create clear and consise rule. These can - and should - change 
+     depending on team collelation and overall project goals/forces.
+     - One should also strive for perfection; always improving through experiments and by change. Most modern development methodologies include forums
+       where this is natural. E.g. SCRUMMs retrospective. 
+   - Git vs Subersion
+
+2. Our (eStils) goals
+   - Situation:
+   	 Brand new application ment our short term goals where related to the development process of new features. Did not have to take release into 
+   	 consideration in the short term.
+   - Get controll over our source. 
+     - Familiarize oneself with Git as a SCM. 
+     - The Git log should be read like a short story of our resent changes. One should be able to use this too get a feel for what has recently happened 
+       in the project.
+     - Review; use the log activly in review in order to improve the time spent on this.
+   - Long term goals:
+     - Find a sutable release strategy
+     - Userstories and task should be structured in a manner that makes it possible to remove elements that are not ready for release.
+     - 
+
+3. Release strategy
+
+4. Demo
+   - Branching
+   - FF vs No-FF merge
+   - Merge vs Rebase (remote)
+     - via auto-rebase
+   - Pull fra feil branch
+   - Reflog
+
+5. Oppsummering
+   - Git vs Subversion
+
+To write
+“Like most others, I was a seeker, a mover, a malcontent, and at times a stupid hell-raiser. I was never idle long enough to do much thinking, but I felt somehow that some of us were making real progress, that we had taken an honest road, and that the best of us would inevitably make it over the top. At the same time, I shared a dark suspicion that the life we were leading was a lost cause, that we were all actors, kidding ourselves along on a senseless odyssey. It was the tension between these two poles - a restless idealism on one hand and a sense of impending doom on the other - that kept me going.” 
+― Hunter S. Thompson, The Rum Diary
+
+A big IT conference is kind of like a ecosystem: You have the sales reps on the prowl lik sharks on the looking for pray; the various experts showing off their knowledge
+
+
+
+
+
