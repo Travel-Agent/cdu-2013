@@ -7,6 +7,10 @@ class Person {
 	
 	}
 	
+	public boolean canDrinkAlcohol(){
+		return age >= 18;
+	}
+	
 	public void setName(String name){
 		this.name = name;
 	}
