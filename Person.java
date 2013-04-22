@@ -22,6 +22,4 @@ class Person {
 		return age;
 	}
 	
-	public String getEpost() {
-	}
 }
