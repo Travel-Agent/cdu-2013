@@ -1,6 +1,7 @@
 class Person {
 	private String name;
 	private int age;
+	private int email:
 	
 	public Person(){
 	
@@ -20,6 +21,14 @@ class Person {
 	
 	public int getAge(){
 		return age;
+	}
+
+	public getEmail() {
+		return email;
+	}
+
+	public setEmai(String email) {
+		this.email = email;
 	}
 	
 }
