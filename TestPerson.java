@@ -7,5 +7,9 @@ public class TestPerson{
 	public void testAlcoholTest(){
 		assert(true);
 	}
+	
+	public void testSomethingElse(){
+		assert(false);
+	}
 
 }
